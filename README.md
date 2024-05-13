@@ -105,24 +105,31 @@ f.Select the enable button and click apply and then click ok.
 
 ***CMOS NAND GATE***
 ***NAND SCHEMATIC***
+
 ![image](https://github.com/Siva1309/VLSI-LAB-EXP-6/assets/166374356/6d3cfbf5-fa55-4176-b745-1e71d17f5148)
 
 ***NAND TEST CELL VIEW***
+
 ![image](https://github.com/Siva1309/VLSI-LAB-EXP-6/assets/166374356/bf2910b1-bad2-486d-bcd4-9aaec5848353)
 
 ***NAND SIMULATION WITH SPECTRA***
+
 ![image](https://github.com/Siva1309/VLSI-LAB-EXP-6/assets/166374356/d1ce6f4f-feba-4cff-bb8c-a43cd60ebf67)
 
 ***CMOS NOR GATE***
 ***NOR SCHEMATIC***
+
 ![image](https://github.com/Siva1309/VLSI-LAB-EXP-6/assets/166374356/a13fb362-b334-4fe1-94c7-5ff9f38fcd44)
 
 ***NOR TEST CELL VIEW***
+
 ![image](https://github.com/Siva1309/VLSI-LAB-EXP-6/assets/166374356/8db328e1-b6a1-46f9-87bd-8c40539768bc)
 
 
 ***NOR SIMULATION WITH SPECTRA***
-![Uploading image.png…]()
+
+![image](https://github.com/Siva1309/VLSI-LAB-EXP-6/assets/166374356/0db4f1e4-40f4-4045-a7d7-b405a8d41bbf)
+
 
 
 
